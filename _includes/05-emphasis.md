@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**computer skills** *still in progress*
+* _program in c, c++ and VHDL_
+* _excel mircosoft_
+* _basic computer repair_
